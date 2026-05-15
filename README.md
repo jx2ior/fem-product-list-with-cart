@@ -5,7 +5,7 @@
 
 # Frontend Mentor Challenge – Product list with cart
 
-Power Apps Canvas application for text analysis that counts characters, words, and sentences, allows including or excluding spaces, lets users set a character limit with warnings, estimates reading time, and displays a letter frequency chart. It supports color themes, keyboard navigation, and responsive layouts.
+Power Apps Canvas application implementing a product list with shopping cart functionality, allowing users to add and remove items, adjust quantities, confirm orders in a modal dialog, reset selections, and interact using keyboard navigation within a responsive interface
 
 ## 🚀 Getting Started
 
